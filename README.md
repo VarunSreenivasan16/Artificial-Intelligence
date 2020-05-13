@@ -1,5 +1,5 @@
 # Artificial-Intelligence
-CS 640
+CS 540
 
 P1: Jug-Successor (States)
 
